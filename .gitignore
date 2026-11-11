@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+bin/
+config.json
+*.log
+ax-dump.txt
+.DS_Store
